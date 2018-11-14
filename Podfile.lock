@@ -1,0 +1,16 @@
+PODS:
+  - InAppSettingsKit (2.9.1)
+
+DEPENDENCIES:
+  - InAppSettingsKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - InAppSettingsKit
+
+SPEC CHECKSUMS:
+  InAppSettingsKit: acb6bc78cf00bbcfa63c4a26fd67f266bc7cfcd2
+
+PODFILE CHECKSUM: 68540697d07a19b820f2bb4af23b121670e7acba
+
+COCOAPODS: 1.5.3
